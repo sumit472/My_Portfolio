@@ -1,0 +1,46 @@
+.home {
+  width: 100vw;
+
+  display: flex;
+}
+
+
+.box1 {
+  width: 50%;
+  height: 100vh;
+  /* background-color: aquamarine; */
+  display: flex;
+  padding: 250px 100px;
+}
+
+.box2 {
+  /* height: 100vh; */
+  width: 50%;
+  padding-bottom: 20px;
+  /* background-color: blueviolet; */
+  background-image: url(/src/Components/Home/home.png);
+  background-size: cover;
+}
+
+.content h4 {
+  color: orange;
+  font-weight: 500;
+}
+
+.content h2 {
+  color: coral;
+  font-weight: 600;
+}
+
+.content h1 {
+  color: crimson;
+  font-weight: 700;
+}
+
+.content p {
+  font-size: 20px;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}

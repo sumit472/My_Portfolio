@@ -1,0 +1,18 @@
+.project {
+  height: 460px;
+  width: 100vw;
+}
+
+.name h1 {
+  margin-top: 50px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 50px;
+
+}
+
+.list {
+  list-style: none;
+  text-align: center;
+  margin-top: 20px;
+}

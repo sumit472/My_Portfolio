@@ -1,0 +1,45 @@
+.footer {
+  height: 100px;
+  width: 100vw;
+  background-color: rgb(36, 32, 32);
+  border-top: 2px solid darkcyan;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.footer-icons {
+  font-size: 40px;
+  color: white;
+
+}
+
+.footer-icons i {
+  margin: 10px;
+}
+
+.footer-icons i:hover {
+  color: orange;
+  cursor: pointer;
+}
+
+.instagram {
+  color: rgb(236, 116, 116);
+}
+
+.twitter {
+  color: rgb(124, 190, 248);
+}
+
+.facebook {
+  color: rgb(0, 132, 255);
+}
+
+.whatsapp {
+  color: rgb(3, 173, 3);
+}
+
+.telegram {
+  color: rgb(58, 166, 230);
+}
